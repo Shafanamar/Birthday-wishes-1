@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, Partials, EmbedBuilder, REST, Routes } = require('discord.js');
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const fs = require('fs');
-const TOKEN = 'MTI4NzQ2NTQ5OTkxOTI1Nzc0Mg.GzYayg.c2DOMse-Kt6naowDSby0p3tsfngVbSVRh1md9o';
+const TOKEN ='';
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
