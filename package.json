@@ -2,9 +2,9 @@
   "name": "advanced-discord-bot",
   "version": "1.0.0",
   "description": "An advanced Discord bot with welcome message, voice channel alerts, and whitelist commands",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "author": "Zephyr Vex",
   "license": "MIT",
