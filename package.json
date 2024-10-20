@@ -1,0 +1,14 @@
+{
+  "name": "zenta-roleplay-bot",
+  "version": "1.0.0",
+  "description": "A custom Discord bot for Zenta Roleplay with whitelist management and application setup features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  },
+  "author": "Zephyr Vex",
+  "license": "MIT"
+}
